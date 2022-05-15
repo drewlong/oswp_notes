@@ -92,7 +92,7 @@ Use freeradius to provide fake cert to clients
     localityName            = {City}
     organizationName        = {Company Name}
     emailAddress            = {Email}
-    commonName              = "Playtronics"
+    commonName              = "Such and Such Certificate Authority"
 ```
   - change dir to /etc/freeradius/3.0/certs/ and run:
   ``` 
