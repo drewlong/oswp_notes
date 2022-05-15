@@ -1,2 +1,2 @@
-# oswp_notes
+# OSWP Notes
 Some of my personal notes that helped me pass the OSWP
