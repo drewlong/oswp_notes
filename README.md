@@ -95,9 +95,9 @@ Use freeradius to provide fake cert to clients
     commonName              = "Playtronics"
 ```
   - change dir to /etc/freeradius/3.0/certs/ and run:
-  -- `rm dh`
-  -- `make`
-
+  ``` 
+  rm dh && make
+  ```
   - YOU WILL GET AN ERROR, but it doesn't matter
 
 Setup hostapd-mana for the rogue AP using the (updated!) `mana.conf` file, move to `/etc/hostapd-mana/mana.conf`
