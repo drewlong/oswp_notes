@@ -1,4 +1,5 @@
-###Attacking WEP:
+# OSWP Notes
+### Attacking WEP:
 
 Prep monitoring interface
 
@@ -58,7 +59,7 @@ sudo iwconfig wlan0 essid <SSID> key s:<KEY>
 sudo dhclient wlan0
 ```
 
-##WPA2 Enterprise:
+### WPA2 Enterprise:
 
 Look for WPA MGT network in airodump
 
